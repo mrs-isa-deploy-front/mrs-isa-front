@@ -1,0 +1,5 @@
+{
+    "ENV": "development",
+    "BASE_URL": "https://mrs-isa-tim17-front.herokuapp.com/book"
+}
+
