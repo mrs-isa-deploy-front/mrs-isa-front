@@ -1,5 +1,5 @@
 {
-    "ENV": "development",
-    "BASE_URL": "http://localhost:8080/book"
+    "ENV": "production",
+    "BASE_URL": "https://mrs-isa-tim17.herokuapp.com/book"
 }
 
